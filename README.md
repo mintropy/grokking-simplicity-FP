@@ -1,3 +1,9 @@
+# 쏙쏙 들어오는 함수형 코딩
+
+![쏙쏙 들어오는 함수형 코딩 표지](https://image.aladin.co.kr/product/29234/92/cover500/k682837293_1.jpg)
+
+---
+
 # _Grokking Simplicity_
 
 Welcome to _Grokking Simplicity_, a book about functional
